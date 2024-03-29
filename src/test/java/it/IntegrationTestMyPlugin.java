@@ -6,5 +6,6 @@ public class IntegrationTestMyPlugin extends TestCase
 {
 	public void testSomething()
 	{
+		//asdfasfd
 	}
 }
